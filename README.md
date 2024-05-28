@@ -1,6 +1,8 @@
 # DS4 Color
 
-This projects aims to explore the Dualshock 4's color "registers"
+This project aims to explore the Dualshock 4's color "registers"
+
+https://github.com/ekhi-arzac/ds4_color/assets/105313706/d0522734-e5b8-4586-a2a6-3e0800f2ea69
 
 ## How to run Linux
 
