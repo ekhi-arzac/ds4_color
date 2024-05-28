@@ -37,8 +37,8 @@ The word hidraw will be highlighted in red, and next to it we will have a number
 Now we need to clone the project and change the source file so it works with our machine:
 
 ```bash
-git clone ...
-cd ...
+git clone https://github.com/ekhi-arzac/ds4_color.git
+cd ds4_color
 ```
 
 Go to `src/ds4_color.c` and change line 11:
