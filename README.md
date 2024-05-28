@@ -1,6 +1,7 @@
 # DS4 Color
 
 This project aims to explore the Dualshock 4's color "registers"
+
 ![ds4_color](https://github.com/ekhi-arzac/ds4_color/assets/105313706/8599738d-dc60-4ce1-8052-ad6c0f7fa008)
 
 
